@@ -16,11 +16,10 @@ import javax.swing.event.DocumentListener;
 import interface_adapter.change_password.ChangePasswordController;
 import interface_adapter.change_password.LoggedInState;
 import interface_adapter.change_password.LoggedInViewModel;
-import interface_adapter.login.LoginState;
 import interface_adapter.logout.LogoutController;
 
 /**
- * The View for when the user is logged into the program.
+ * The View for when the user is logged into the program. good
  */
 public class LoggedInView extends JPanel implements PropertyChangeListener {
 

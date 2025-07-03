@@ -80,6 +80,7 @@ public class DBUserDataAccessObject implements SignupUserDataAccessInterface,
                 .url(String.format("http://vm003.teach.cs.toronto.edu:20112/checkIfUserExists?username=%s", username))
                 .addHeader(CONTENT_TYPE_LABEL, CONTENT_TYPE_JSON)
                 .build();
+
         try {
             final Response response = client.newCall(request).execute();
 
