@@ -18,7 +18,8 @@ _(recall, Phase 1 is your solo task of adding the storage of the currently-logge
 **To get started, one team member should fork this repo on GitHub and share it with the team.
 All of you should then clone it.**
 
-* * *
+
+* * * *
 
 Suggested logistics: One of you should invite the others to collaborate on their fork of the
 original repo on GitHub. You can do this in your repo on GitHub under `Settings -> Collaborators`.
@@ -66,7 +67,7 @@ We have created all the classes for you, but some of the code is missing.
 As a team, your task is to fill in the missing code so that the Logout Use Case is implemented.
 **The next part of the readme describes how your team will do this.**
 
-A special note about one buggy behaviour: If if you don’t fill out the username but click Sign Up button, you will be redirected to the Login view.
+A special note about one buggy behaviour: If you don’t fill out the username but click Sign Up button, you will be redirected to the Login view.
 * * *
 
 **Your team will know when you are done when:**
@@ -114,8 +115,8 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `LogoutController.java` (tip: refer to the other controllers for similar code)
 
-    - [ ] TODO: Save the interactor in the instance variable.
-    - [ ] TODO: run the use case interactor for the logout use case
+    - [X] TODO: Save the interactor in the instance variable.
+    - [X] TODO: run the use case interactor for the logout use case
 
 * * *
 
