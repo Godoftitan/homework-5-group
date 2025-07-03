@@ -18,7 +18,8 @@ _(recall, Phase 1 is your solo task of adding the storage of the currently-logge
 **To get started, one team member should fork this repo on GitHub and share it with the team.
 All of you should then clone it.**
 
-* * *
+
+* * * *
 
 Suggested logistics: One of you should invite the others to collaborate on their fork of the
 original repo on GitHub. You can do this in your repo on GitHub under `Settings -> Collaborators`.
