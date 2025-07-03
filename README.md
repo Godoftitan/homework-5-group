@@ -66,7 +66,7 @@ We have created all the classes for you, but some of the code is missing.
 As a team, your task is to fill in the missing code so that the Logout Use Case is implemented.
 **The next part of the readme describes how your team will do this.**
 
-A special note about one buggy behaviour: If if you don’t fill out the username but click Sign Up button, you will be redirected to the Login view.
+A special note about one buggy behaviour: If you don’t fill out the username but click Sign Up button, you will be redirected to the Login view.
 * * *
 
 **Your team will know when you are done when:**
